@@ -1,8 +1,9 @@
 {
   "name": "xrodev",
-  "displayName": "xrodev",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Xrodev Theme",
+  "description": "A sleek and modern dark theme for VS Code crafted by Xrodev.",
+  "version": "1.0.0",
+  "publisher": "xrodev",
   "engines": {
     "vscode": "^1.101.0"
   },
@@ -12,10 +13,43 @@
   "contributes": {
     "themes": [
       {
-        "label": "xrodev",
+        "label": "Xrodev",
         "uiTheme": "vs-dark",
         "path": "./themes/xrodev-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayan2228/xrodev-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rayan2228/xrodev-theme/issues"
+  },
+  "homepage": "https://github.com/rayan2228/xrodev-theme",
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "xrodev",
+    "developer",
+    "code",
+    "modern",
+    "minimal"
+  ],
+  "icon": "icon.png",
+  "license": "MIT",
+  "author": {
+    "name": "Xrodev",
+    "email": "contact@xrodev.com",
+    "url": "https://xrodev.com"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "prepublish": "npm run package"
+  },
+  "devDependencies": {
+    "vsce": "^3.17.0"
   }
 }
