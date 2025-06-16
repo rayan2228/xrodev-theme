@@ -2,7 +2,8 @@
 
 A sleek, modern, and developer-focused dark theme built for high productivity and visual comfort.
 
-![Xrodev Theme Screenshot](https://raw.githubusercontent.com/rayan2228/xrodev-vscode-theme/main/images/screenshot.png)
+![Xrodev Theme Screenshot](./images/htmlss.png)
+
 
 ---
 
@@ -18,10 +19,10 @@ A sleek, modern, and developer-focused dark theme built for high productivity an
 ## 📸 Screenshots
 
 ### JavaScript / TypeScript
-![JS Preview](https://raw.githubusercontent.com/rayan2228/xrodev-vscode-theme/main/images/js-preview.png)
+![JS Preview](./images/jsss.png)
 
 ### HTML / CSS
-![HTML CSS Preview](https://raw.githubusercontent.com/rayan2228/xrodev-vscode-theme/main/images/html-css.png)
+![HTML CSS Preview](./images/htmlss.png)
 
 ---
 
@@ -33,3 +34,22 @@ A sleek, modern, and developer-focused dark theme built for high productivity an
 
 ```bash
 ext install rayan2228.xrodev
+
+```
+
+## 🚀 About Xrodev
+
+[Xrodev](https://xrodev.com) is a creative digital agency offering:
+
+- 🔥 Web Development
+- 🎯 Digital Marketing
+- 🧠 AI Automation & Bots
+- 🎨 UI/UX Design
+
+We help startups and brands build scalable, user-friendly digital products that perform.
+
+👉 Need a custom website, dashboard, or automation tool?  
+📩 [contact@xrodev.com](mailto:contact@xrodev.com)
+
+🔗 [xrodev.com](https://xrodev.com) | [Facebook](https://www.facebook.com/xrodev/) | [LinkedIn](https://www.linkedin.com/company/xrodev)
+
