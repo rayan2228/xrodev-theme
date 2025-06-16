@@ -1,16 +1,35 @@
-# xrodev README
+# 🌙 Xrodev Theme for VS Code
 
-## Working with Markdown
+A sleek, modern, and developer-focused dark theme built for high productivity and visual comfort.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Xrodev Theme Screenshot](https://raw.githubusercontent.com/rayan2228/xrodev-vscode-theme/main/images/screenshot.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## ✨ Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Dark UI with vibrant syntax highlighting
+- Carefully selected colors for accessibility and readability
+- Great for web, UI, JS/TS, and backend developers
+- Compatible with VS Code's latest versions
 
-**Enjoy!**
+---
+
+## 📸 Screenshots
+
+### JavaScript / TypeScript
+![JS Preview](https://raw.githubusercontent.com/rayan2228/xrodev-vscode-theme/main/images/js-preview.png)
+
+### HTML / CSS
+![HTML CSS Preview](https://raw.githubusercontent.com/rayan2228/xrodev-vscode-theme/main/images/html-css.png)
+
+---
+
+## 🚀 Installation
+
+1. Go to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rayan2228.xrodev)  
+2. Click **Install**  
+3. Or install via VS Code:
+
+```bash
+ext install rayan2228.xrodev
